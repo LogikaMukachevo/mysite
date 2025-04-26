@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text-1{
+    color: blue;
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: aqua;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+img:hover{
+    opacity: 1;
+    transition: 1s;
+    transform: scale(1.2);
+}
+img{
+    opacity: 0.1;
+    width:200 px ;
+    height:150px ;
+    border-radius: 25%;
+}
